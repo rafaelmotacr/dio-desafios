@@ -1,2 +1,2 @@
 # dio-desafios
-Desafios feitos durante o curso de java da DIO.
+Desafios feitos durante a trilha de java básico da DIO.
